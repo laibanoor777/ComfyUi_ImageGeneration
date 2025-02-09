@@ -35,6 +35,6 @@ update\update_comfyui.bat
 
 ## Application Screenshots
 
-![Landing UI Page](ScreenShots/Screenshot1.png)
-![Outout 1](ScreenShots/Screenshot2.png)
-![Queue showing all Outputs](ScreenShots/Screenshot3.png)
+![Landing UI Page](ScreenShots/Screenshot%201.png)
+![Outout 1](ScreenShots/Screenshot%202.png)
+![Queue showing all Outputs](ScreenShots/Screenshot%203.png)
