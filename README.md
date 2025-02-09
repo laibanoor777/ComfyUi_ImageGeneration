@@ -30,3 +30,10 @@ You can download the Stable Diffusion 1.5 model and add these models at the path
 To update the ComfyUI code, run:
 ```batch
 update\update_comfyui.bat
+
+
+## Application Screenshots
+
+![Landing UI Page](Screenshots/Screenshot1.png)
+![Outout 1](Screenshots/Screenshot2.png)
+![Queue showing all Outputs](Screenshots/Screenshot3.png)
