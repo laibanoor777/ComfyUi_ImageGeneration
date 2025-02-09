@@ -29,7 +29,8 @@ You can download the Stable Diffusion 1.5 model and add these models at the path
 ## Recommended Way to Update:
 To update the ComfyUI code, run:
 ```batch
-update\update_comfyui.bat ```
+update\update_comfyui.bat
+```
 
 
 ## Application Screenshots
